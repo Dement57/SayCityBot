@@ -1,0 +1,27 @@
+{
+  "name": "saycitybot",
+  "version": "1.0.0",
+  "description": "playing CityGame bot",
+  "main": "index.js",
+  "dependencies": {
+    "telegraf": "^4.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dement57/SayCityBot.git"
+  },
+  "keywords": [
+    "telegraf",
+    "nodeJSBot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dement57/SayCityBot/issues"
+  },
+  "homepage": "https://github.com/Dement57/SayCityBot#readme"
+}
